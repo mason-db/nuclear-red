@@ -4,3 +4,5 @@ A text-based adventure game I developed as part of a group for GAME 101. This pr
 *Nuclear Red* features the first chapter in an unfortunatley never completed game, powered by a complex regex-based text parsing engine, and featuing a retro-inspired amber-colored "terminal" in which to interact with the game.
 
 <img width="902" alt="Nuclear Red Screenshot" src="https://user-images.githubusercontent.com/9200377/214074624-7ee5b3e5-0046-4d93-b21a-0968b4654671.png">
+
+Packaging is done via [launch4j](https://launch4j.sourceforge.net/) (Windows) or [jar2app](https://github.com/Jorl17/jar2app) (macOS).
