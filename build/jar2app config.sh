@@ -1,0 +1,1 @@
+jar2app ../out/artifacts/Nuclear_Red_jar/Nuclear\ Red.jar ../executables/Nuclear\ Red\ v0.2\Nuclear\ Red.app -n "Nuclear Red" -i resources/icon/NR\ Icon.icns -v "0.2.0" -s "0.2.0"
