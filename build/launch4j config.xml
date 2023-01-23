@@ -13,7 +13,6 @@
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon>/Users/mdb/Documents/School/GAME/GAME 101/Mars Game Project/NR Icon.ico</icon>
   <icon>resources/icon/NR Icon.ico</icon>
   <jre>
     <path></path>
